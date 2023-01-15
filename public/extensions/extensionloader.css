@@ -1,0 +1,7 @@
+#extensionlist{padding: 10px 0px;}
+.tobegin{position: absolute;font-size: 20px;opacity: 0.5;top: 15%;left: 5%;}
+.extensions-heading{margin-top: 0;}
+.popover{min-width: 520px !important;max-width: 520px !important;}
+#editextensionconfig{height: 200px;}
+#learnmore{float: left;}
+#saveconfig{background: #5cb85c;color: white;}

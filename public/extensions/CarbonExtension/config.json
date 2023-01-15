@@ -1,0 +1,13 @@
+{
+    "name":"CarbonExtension",
+    "displayname": "CO2 Twin",
+    "description": "To simulate the amount of CO2 in a room.",
+    "options":{},
+    "viewerversion":"7.*",
+    "loadonstartup": "false",
+    "filestoload":{
+        "cssfiles":["main.css"],
+        "jsfiles":["main.js"]
+    },
+    "includeinlist":"true"
+}
